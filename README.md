@@ -34,6 +34,13 @@ Java (JDK 17): For writing and compiling the Java code.
 Scanner class: To take user input for grades.
 Array or ArrayList: To store the grades.
 Mathematical calculations: To compute the average, letter grade, and GPA.
+*Key Insights-
+Input Grades: The program allows the user to input grades for different subjects or assignments.
+Average Grade Calculation: It will calculate the average grade based on the grades entered.
+Letter Grade: The program will convert the numeric average into a letter grade (e.g., A, B, C).
+GPA Calculation: If desired, it can also calculate the GPA based on a scale (e.g., 4.0 scale).
+Data Validation: The program should ensure that grades entered are within valid ranges.
+Interactive and User-Friendly: The program should prompt the user to enter grades for different subjects, calculate, and display results.
 
 
 
