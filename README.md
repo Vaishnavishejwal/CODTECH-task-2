@@ -11,9 +11,24 @@ Duration- December 30th, 2024 to January 30th, 2025
 Mentor-Neela Santhosh Kumar
 
 
-*Overview of the Project
+*Overview of the Project-
 
-*Project-Student Grade Tracker
+*Project-Student Grade Tracker-
+
+
+
+*Output-
+
+![Screenshot 2024-12-25 075903](https://github.com/user-attachments/assets/e862130a-8eaa-45ad-9d86-4beeb63e468a)
+
+
+
+
+
+
+
+
+
 
 *Objective-
 
@@ -30,7 +45,7 @@ Additional Information- The program should calculate the GPA (Grade Point Averag
 Allow User to Input Grades-The program should accept input from the user for different subjects or assignments.It should handle both numerical grades (e.g., percentages) and optionally letter grades (e.g., A, B, C, etc.). 
 Calculate Average Grade-After receiving the grades, the program should calculate the average score for all subjects or assignments.
 
-Display Overall Grade-The program will display the average grade and then map that average to a letter grade or GPA scale.The GPA could be computed based on a standard scale (e.g., 4.0 scale).
+Display Overall Grade-The program will display the average grade and then map that average to a letter grade or GPA scale.The GPA could be computed based on a standard scale.
 
 Display Additional Information-The program will show the GPA, the letter grade, and optionally a summary of the grades entered by the user.
 
