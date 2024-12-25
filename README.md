@@ -52,7 +52,7 @@ Display Additional Information-The program will show the GPA, the letter grade, 
 
 *Technologies Used-
 
-Java (JDK 17)- For writing and compiling the Java code.
+Java (JDK 22)- For writing and compiling the Java code.
 
 Scanner class- To take user input for grades.
 
