@@ -30,5 +30,28 @@ The GPA could be computed based on a standard scale (e.g., 4.0 scale).
 Display Additional Information
 The program will show the GPA (if applicable), the letter grade, and optionally a summary of the grades entered by the user.
 *Technologies Used-
+Java (JDK 17): For writing and compiling the Java code.
+Scanner class: To take user input for grades.
+Array or ArrayList: To store the grades.
+Mathematical calculations: To compute the average, letter grade, and GPA.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
