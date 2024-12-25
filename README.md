@@ -43,6 +43,7 @@ Additional Information- The program should calculate the GPA (Grade Point Averag
 *Key Activities-
 
 Allow User to Input Grades-The program should accept input from the user for different subjects or assignments.It should handle both numerical grades (e.g., percentages) and optionally letter grades (e.g., A, B, C, etc.). 
+
 Calculate Average Grade-After receiving the grades, the program should calculate the average score for all subjects or assignments.
 
 Display Overall Grade-The program will display the average grade and then map that average to a letter grade or GPA scale.The GPA could be computed based on a standard scale.
